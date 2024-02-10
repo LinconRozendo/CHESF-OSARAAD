@@ -1,0 +1,11 @@
+{
+    "Uso Sustentável": {
+        "filepath": "camadas/ucsfus_uso_sustentavel.geojson",
+        "cor": "purple"
+    },
+    "Proteção Integral": {
+        "filepath": "camadas/ucsfi_protecao_integral.geojson",
+        "cor": "red"
+    }
+
+}
